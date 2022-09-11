@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nabila-alam11
+- 👋 Hi, I’m Nabila Alam
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning C++ with Data Structures and Algorithms.
 - 💞️ I’m looking to collaborate on ...
